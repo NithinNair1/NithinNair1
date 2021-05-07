@@ -3,8 +3,8 @@
 
 ## Me:
 
-- 🔭 I’m currently working on Video Streaming Stuff
-- 🌱 I’m currently learning WebRTC
+- 🔭 I’m currently working on a Java Project
+- 🌱 I’m currently learning Japanese
 - 📫 How to reach me: [Instagram: @nithinnair01](https://instagram.com/nithinnair01)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am a chess enthusiast, who avoids playing it😅
+- ⚡ Fun fact: When I was a kid, I nearly shaved my eyebrows off...😂😅
