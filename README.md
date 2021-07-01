@@ -3,7 +3,7 @@
 
 ## Me:
 
-- 🔭 I’m currently working on a Java Project
+- 🔭 I’m currently working on a API Related Projects
 - 🌱 I’m currently learning Japanese
 - 📫 How to reach me: [Instagram: @nithinnair01](https://instagram.com/nithinnair01)
 - 😄 Pronouns: He/Him/His
