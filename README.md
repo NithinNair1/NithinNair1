@@ -3,8 +3,5 @@
 
 ## Me:
 
-- 🔭 I’m currently working on API Related Projects
-- 🌱 I’m currently learning Japanese
-- 📫 How to reach me: [Instagram: @nithinnair01](https://instagram.com/nithinnair01)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: When I was a kid, I nearly shaved my eyebrows off...😂😅
+- 👨‍💻 I’m currently working on ReactJS 
+- 📫 How to reach me: [Instagram: @nithinnair01](https://instagram.com/nithinnair01) and [Twitter: @nithinnair01](https://twitter.com/nithinnair01)
